@@ -1,0 +1,36 @@
+body {
+    font-family: Arial, sans-serif; /* Change the font-family as desired */
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .content {
+    width: 50%;
+  }
+  
+  .heading {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .poem {
+    font-size: 18px;
+    line-height: 1.5;
+  }
+  
+  .image {
+    width: 40%;
+  }
+  
+  .image img {
+    max-width: 100%;
+    height: auto;
+  }
+  
